@@ -1,0 +1,11 @@
+C:\Users\mleonard\RiderProjects\GcdOfNNumbers\GcdOfNNumbers\bin\Debug\netcoreapp3.1\GcdOfNNumbers.exe
+C:\Users\mleonard\RiderProjects\GcdOfNNumbers\GcdOfNNumbers\bin\Debug\netcoreapp3.1\GcdOfNNumbers.deps.json
+C:\Users\mleonard\RiderProjects\GcdOfNNumbers\GcdOfNNumbers\bin\Debug\netcoreapp3.1\GcdOfNNumbers.runtimeconfig.json
+C:\Users\mleonard\RiderProjects\GcdOfNNumbers\GcdOfNNumbers\bin\Debug\netcoreapp3.1\GcdOfNNumbers.runtimeconfig.dev.json
+C:\Users\mleonard\RiderProjects\GcdOfNNumbers\GcdOfNNumbers\bin\Debug\netcoreapp3.1\GcdOfNNumbers.dll
+C:\Users\mleonard\RiderProjects\GcdOfNNumbers\GcdOfNNumbers\bin\Debug\netcoreapp3.1\GcdOfNNumbers.pdb
+C:\Users\mleonard\RiderProjects\GcdOfNNumbers\GcdOfNNumbers\obj\Debug\netcoreapp3.1\GcdOfNNumbers.csprojAssemblyReference.cache
+C:\Users\mleonard\RiderProjects\GcdOfNNumbers\GcdOfNNumbers\obj\Debug\netcoreapp3.1\GcdOfNNumbers.AssemblyInfoInputs.cache
+C:\Users\mleonard\RiderProjects\GcdOfNNumbers\GcdOfNNumbers\obj\Debug\netcoreapp3.1\GcdOfNNumbers.AssemblyInfo.cs
+C:\Users\mleonard\RiderProjects\GcdOfNNumbers\GcdOfNNumbers\obj\Debug\netcoreapp3.1\GcdOfNNumbers.dll
+C:\Users\mleonard\RiderProjects\GcdOfNNumbers\GcdOfNNumbers\obj\Debug\netcoreapp3.1\GcdOfNNumbers.pdb
